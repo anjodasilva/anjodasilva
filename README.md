@@ -3,8 +3,6 @@
 - Profile: Ethical hacking and bug hunting enthusiast 🕵️🕷️🕸️🔥💨
 - Experience: 4 years in the cyber industry career 🔒🔑🌐🏭
 - Focused on: privacy and information security. 🥷🗡️🛡️
-- TryHackMe: [anjodasilva](https://tryhackme.com/p/anjodasilva)
-
 
 ## Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anjodasilva&repo=gap)](https://github.com/anjodasilva/gap)
@@ -26,4 +24,3 @@
 anjodasilva/anjodasilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-⚠️ **AGAINST SURVEILLANCE**
