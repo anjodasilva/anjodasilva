@@ -1,8 +1,6 @@
 # About
 
-- Profile: Ethical hacking and bug hunting enthusiast 🕵️🕷️🕸️🔥💨
-- Experience: 4 years in the cyber industry career 🔒🔑🌐🏭
-- Focused on: privacy and information security. 🥷🗡️🛡️
+ - Jornalista investigativo independente e criador de conteúdo.
 
 ## Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anjodasilva&repo=gap)](https://github.com/anjodasilva/gap)
