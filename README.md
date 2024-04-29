@@ -1,6 +1,6 @@
 # About
 
- - Jornalista investigativo independente e criador de conteúdo.
+ - Escritor / Criador de conteúdo.
 
 ## Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anjodasilva&repo=gap)](https://github.com/anjodasilva/gap)
